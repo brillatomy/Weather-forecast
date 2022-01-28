@@ -1,0 +1,9 @@
+* {
+    margin:0;
+    padding: 0;
+}
+.container{    
+    background-image: url('../../weather/src/images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
